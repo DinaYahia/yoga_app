@@ -195,13 +195,18 @@ class YogaMainScreen extends StatelessWidget {
                                   // color: Colors.red,
                                   padding: EdgeInsets.only(
                                       left: 20, bottom: 50, right: 20),
-                                  child: Text(
-                                    'yoga_beginners'.tr(),
-                                    // AppLocalizations.of(context).translate("yoga_beginners"),
-                                    maxLines: 1,
-                                    overflow: TextOverflow.ellipsis,
-                                    style: TextStyle(
-                                        fontSize: 22, color: Colors.white),
+                                  child: Row(
+                                    mainAxisAlignment: MainAxisAlignment.start,
+                                    children: [
+                                      Text(
+                                        'yoga_beginners'.tr(),
+                                        // AppLocalizations.of(context).translate("yoga_beginners"),
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: TextStyle(
+                                            fontSize: 22, color: Colors.white),
+                                      ),
+                                    ],
                                   ),
                                   alignment: context.locale == Locale('en')
                                       ? Alignment.bottomLeft
@@ -299,13 +304,18 @@ class YogaMainScreen extends StatelessWidget {
                                   // color: Colors.red,
                                   padding: EdgeInsets.only(
                                       right: 20, bottom: 50, left: 20),
-                                  child: Text(
-                                    'yoga_intermediate'.tr(),
-                                    // AppLocalizations.of(context).translate("yoga_intermediate"),
-                                    maxLines: 1,
-                                    overflow: TextOverflow.ellipsis,
-                                    style: TextStyle(
-                                        fontSize: 22, color: Colors.white),
+                                  child: Row(
+                                    mainAxisAlignment: MainAxisAlignment.end,
+                                    children: [
+                                      Text(
+                                        'yoga_intermediate'.tr(),
+                                        // AppLocalizations.of(context).translate("yoga_intermediate"),
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: TextStyle(
+                                            fontSize: 22, color: Colors.white),
+                                      ),
+                                    ],
                                   ),
                                   alignment: context.locale == Locale('en')
                                       ? Alignment.bottomRight
@@ -408,13 +418,18 @@ class YogaMainScreen extends StatelessWidget {
                                   // color: Colors.red,
                                   padding: EdgeInsets.only(
                                       left: 20, bottom: 50, right: 20),
-                                  child: Text(
-                                    'yoga_advanced'.tr(),
-                                    // AppLocalizations.of(context).translate("yoga_advanced"),
-                                    maxLines: 1,
-                                    overflow: TextOverflow.ellipsis,
-                                    style: TextStyle(
-                                        fontSize: 22, color: Colors.white),
+                                  child: Row(
+                                    mainAxisAlignment: MainAxisAlignment.start,
+                                    children: [
+                                      Text(
+                                        'yoga_advanced'.tr(),
+                                        // AppLocalizations.of(context).translate("yoga_advanced"),
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: TextStyle(
+                                            fontSize: 22, color: Colors.white),
+                                      ),
+                                    ],
                                   ),
                                   alignment: context.locale == Locale('en')
                                       ? Alignment.bottomLeft
