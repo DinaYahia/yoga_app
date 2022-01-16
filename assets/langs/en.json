@@ -1,0 +1,22 @@
+{
+    "app_name":"TODO APP",
+    "company":"Islamic University of Gaza",
+    "course_name":"Mobile Development using Flutter",
+    
+    "grocery_home":"Home",
+    "grocery_product_detail":"Product Detail",
+    "grocery_categories":"Categories",
+    "grocery_show_more":"Show More",
+    "grocery_offers":"Offers",
+    "grocery_best_sellers":"Best Sellers",
+    "grocery_similar_product":"Similar Product",
+    "product_description":"Product Description",
+
+    "yoga_home_title":"Yoga Fitness",
+    "yoga_top":"Yoga for the day",
+    "yoga_discover":"Discover",
+    "yoga_beginners":"Yoga for Beginners",
+    "yoga_intermediate":"Yoga for Intermediate",
+    "yoga_advanced":"Yoga for Advanced",
+    "yoga_times":"10 mins"
+}

@@ -1,0 +1,22 @@
+{
+    "app_name":"تطبيق المهام",
+    "company":"الجامعة الاسلامية في غزة",
+    "course_name":"تطوير تطبيقات الهواتف الذكية باستخدام الفلتر",
+    
+    "grocery_home":"الرئيسية",
+    "grocery_product_detail":"تفاصيل المنتج",
+    "grocery_categories":"أقسام",
+    "grocery_show_more":"اعرض المزيد",
+    "grocery_offers":"عروض",
+    "grocery_best_sellers":"أفضل المشتريات",
+    "grocery_similar_product":"المنتجات المشابهة",
+    "product_description":"وصف المنتج",
+
+    "yoga_home_title":"لياقة اليوجا",
+    "yoga_top":"اليوجا لهذا اليوم",
+    "yoga_discover":"يكتشف",
+    "yoga_beginners":"يوجا للمبتدئين",
+    "yoga_intermediate":"يوجا للمتوسطين",
+    "yoga_advanced":"يوجا للمتقدمين",
+    "yoga_times":"10 دقائق"
+}
